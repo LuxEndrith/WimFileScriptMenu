@@ -1,5 +1,9 @@
 # 🖥️ Wim File Script
 
+## ⚠️ Experimental Notice
+
+**Warning:** This script is currently in an experimental phase and may contain errors. It is subject to changes and updates. Please report any issues or provide suggestions for improvements.
+
 ## Overview
 
 🔧 This script provides a user-friendly interface to decompile and compile Windows Imaging Format (WIM) files using DISM.
@@ -10,10 +14,6 @@
 - **Compile**: Captures modified content into a new `.wim` file.
 - **User Interaction**: Utilizes PowerShell dialogs for file and folder selection.
 - **Administrative Permissions**: Requires administrator rights to run due to DISM requirements.
-
-## ⚠️ Experimental Notice
-
-**Warning:** This script is currently in an experimental phase and may contain errors. It is subject to changes and updates. Please report any issues or provide suggestions for improvements.
 
 ## Usage
 
